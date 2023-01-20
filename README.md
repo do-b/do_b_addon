@@ -2,7 +2,7 @@
 blender addon created by do_b and ChatGPT :/
 
 
-Download and install this python files in blender as you install adoon.
+Download and install this python files in blender like you install adoon.
 
 **1). symmetry_pie.py** :-  This python file enable pie menu by pressing "ALT+W" for a symmetry or mirror option that is availabe in "Edit mode" under "MESH" option.
 
